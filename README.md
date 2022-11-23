@@ -8,7 +8,7 @@
 
 **安装依赖和代码运行：**
 
-- 解压checkpoint放在process路径下，解压venv
+- 解压checkpoint放在process路径下，把model放在back/analyze路径下，解压venv，mongodb，front
 
 - data放在back路径下
 

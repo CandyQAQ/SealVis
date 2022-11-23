@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "relation-graph": "^1.1.0",
+    "sf-relation": "^0.1.5",
+    "vue3-draggable-resizable": "^1.6.4"
+  }
+}
